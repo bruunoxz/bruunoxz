@@ -1,7 +1,4 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/bruunoxz/bruunoxz/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">Eu ❤️ resolver grandes desafios usando tecnologia. <br><br> Principalmente no desenvolvimento back-end utilizando java com spring, sou <strong>fascinado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje estou buscando meu primeiro cargo como dev.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
